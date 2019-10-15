@@ -8,6 +8,6 @@ export default class Settings {
         top: {dim:0, isHard: false},
         right: {dim:300, isHard: false},
         bottom: {dim:300, isHard: true},
-        left: {dim:0, isHard: true}
+        left: {dim:0, isHard: false}
     }
 }
