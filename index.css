@@ -1,0 +1,10 @@
+#canvas {
+    border-left: var(--border-left);
+    border-right: var(--border-right);
+    border-top: var(--border-top);
+    border-bottom: var(--border-bottom);
+}
+
+#canvas:hover{
+    cursor: crosshair;
+}
