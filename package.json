@@ -8,6 +8,7 @@
     "dev": "parcel index.html",
     "build": "parcel build index.html"
   },
+  "repository": "github:MattA48/BouncingBall_h4",
   "ava": {
     "compileEnhancements": false,
     "extensions": [
